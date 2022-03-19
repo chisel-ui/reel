@@ -1,6 +1,6 @@
 {
 	"name": "@chisel-ui/reel",
-	"version": "0.2.1",
+	"version": "0.2.2",
 	"description": "chisel-ui reel layout primitive",
 	"private": false,
 	"type": "module",

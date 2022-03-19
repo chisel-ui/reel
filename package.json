@@ -1,6 +1,6 @@
 {
 	"name": "@chisel-ui/reel",
-	"version": "0.2.0",
+	"version": "0.2.1",
 	"description": "chisel-ui reel layout primitive",
 	"private": false,
 	"type": "module",
@@ -30,7 +30,7 @@
 	"homepage": "https://github.com/chisel-ui/reel#readme",
 	"devDependencies": {
 		"@chisel-ui/component": "^0.2.0",
-		"@chisel-ui/core": "^0.0.5",
+		"@chisel-ui/core": "^0.2.0",
 		"husky": "^7.0.4",
 		"lint-staged": "^12.3.7",
 		"prettier": "^2.6.0",
